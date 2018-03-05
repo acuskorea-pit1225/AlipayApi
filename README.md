@@ -14,7 +14,13 @@
 인증키 : 
 게이트웨이 :
 
+API 
 
+1.QR코드기반결재방식
 ![1](https://user-images.githubusercontent.com/12209348/36959867-b09de922-2087-11e8-8d0e-41d8bb37439a.png)
+
+2.알리페이에개인계좌연동되어있는아이디로결재
 ![2](https://user-images.githubusercontent.com/12209348/36959870-b27bf338-2087-11e8-89a8-698cd7c02e05.png)
+
+3. 결재승인후해당물품에대한정보를기입하여전문을송신받아최종결재완료
 ![default](https://user-images.githubusercontent.com/12209348/36959872-b3b59efc-2087-11e8-8aef-254339fa4ee7.png)
